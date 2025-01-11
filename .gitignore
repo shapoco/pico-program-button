@@ -1,0 +1,8 @@
+*backups/
+backups/
+_trash/
+_autosave-*/
+production/
+fp-info-cache
+\#auto_saved_files#
+*.lck
